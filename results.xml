@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Testing the bot" timestamp="2021-03-30T02:36:21" time="152.709" tests="2" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="0"/>
+      <property name="featureName" value="Testing the bot"/>
+      <property name="capabilities" value="chrome.89_0_4389_90.windows"/>
+      <property name="featureFile" value=".\features\botTest.feature"/>
+    </properties>
+    <testcase classname="CucumberJUnitReport-chrome.89_0_4389_90.windows.Testing the bot" name="As a user I would like to know more about bots" time="53.875">
+      <system-out><![CDATA[
+✅ Given I am on the bot page✅ When I click on the Bot✅ When Switch to Bot Frame✅ Then Snatch Bot Title should exist✅ Then SnatchBot should send Text✅ Then SnatchBot should send Text✅ When I send Following text to Bot✅ Then SnatchBot should send Text✅ When I click on "Yes"✅ Then SnatchBot should send Text✅ Then SnatchBot should send Text✅ When I click on "Explain chatbots"✅ Then SnatchBot should send Text✅ When I click on "Tell me"✅ Then SnatchBot should send Text
+]]></system-out>
+    </testcase>
+    <testcase classname="CucumberJUnitReport-chrome.89_0_4389_90.windows.Testing the bot" name="As a user I would like to know how to make a bot" time="98.63">
+      <system-out><![CDATA[
+✅ Given I am on the bot page✅ When I click on the Bot✅ When Switch to Bot Frame✅ Then Snatch Bot Title should exist✅ Then SnatchBot should send Text✅ Then SnatchBot should send Text✅ When I send Following text to Bot✅ Then SnatchBot should send Text✅ When I click on "Yes"✅ Then SnatchBot should send Text✅ Then SnatchBot should send Text✅ When I send Following text to Bot✅ Then SnatchBot should send Text✅ When I click on "No"✅ Then SnatchBot should send Text✅ Then SnatchBot should send Text✅ When I click on "Yes"✅ Then SnatchBot should send Text✅ Then SnatchBot should send Text✅ When I click on "Template"✅ Then SnatchBot should send Text✅ When I click on "Yes"✅ Then SnatchBot should send Text✅ Then SnatchBot should send Text
+]]></system-out>
+    </testcase>
+  </testsuite>
+</testsuites>
