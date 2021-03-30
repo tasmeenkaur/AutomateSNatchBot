@@ -11,7 +11,7 @@ class HomePage{
         browser.url("https://snatchbot.me/")
     }
     //Click action on the Bot
-    clickBot(){
+    async clickBot(){
         this.botIcon.click();
     }
     
